@@ -1,4 +1,4 @@
-
+## This is a function made to try to apply combat to our data.
 ## Try combat
 batch = labInfo[,"New_plate"]
 edata = log2(exprs(data))
